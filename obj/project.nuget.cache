@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ms0H8+MWsK0bUH9tYqNZxoxdKTzJedMO5Yw5gNlTDsWYrjQtIYZO2NZvVCiusB2z9WlbHbuEkrerTbmEpNd8FA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BL\\Documents\\polymaths-e\\Kuizi1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BL\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.18\\microsoft.netcore.app.ref.6.0.18.nupkg.sha512",
+    "C:\\Users\\BL\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.18\\microsoft.windowsdesktop.app.ref.6.0.18.nupkg.sha512",
+    "C:\\Users\\BL\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.18\\microsoft.aspnetcore.app.ref.6.0.18.nupkg.sha512",
+    "C:\\Users\\BL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.18\\microsoft.netcore.app.host.win-x64.6.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}

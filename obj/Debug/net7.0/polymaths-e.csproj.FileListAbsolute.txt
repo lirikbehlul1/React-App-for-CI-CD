@@ -1,0 +1,15 @@
+C:\Users\BL\Documents\polymaths-e\bin\Debug\net7.0\polymaths-e.dll
+C:\Users\BL\Documents\polymaths-e\bin\Debug\net7.0\polymaths-e.exe
+C:\Users\BL\Documents\polymaths-e\bin\Debug\net7.0\polymaths-e.deps.json
+C:\Users\BL\Documents\polymaths-e\bin\Debug\net7.0\polymaths-e.runtimeconfig.json
+C:\Users\BL\Documents\polymaths-e\obj\Debug\net7.0\polymaths-e.csproj.AssemblyReference.cache
+C:\Users\BL\Documents\polymaths-e\obj\Debug\net7.0\polymaths-e.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BL\Documents\polymaths-e\obj\Debug\net7.0\polymaths-e.AssemblyInfoInputs.cache
+C:\Users\BL\Documents\polymaths-e\obj\Debug\net7.0\polymaths-e.AssemblyInfo.cs
+C:\Users\BL\Documents\polymaths-e\obj\Debug\net7.0\polymaths-e.csproj.CoreCompileInputs.cache
+C:\Users\BL\Documents\polymaths-e\obj\Debug\net7.0\polymaths-e.dll
+C:\Users\BL\Documents\polymaths-e\obj\Debug\net7.0\refint\polymaths-e.dll
+C:\Users\BL\Documents\polymaths-e\obj\Debug\net7.0\polymaths-e.pdb
+C:\Users\BL\Documents\polymaths-e\obj\Debug\net7.0\polymaths-e.genruntimeconfig.cache
+C:\Users\BL\Documents\polymaths-e\bin\Debug\net7.0\polymaths-e.pdb
+C:\Users\BL\Documents\polymaths-e\obj\Debug\net7.0\ref\polymaths-e.dll
